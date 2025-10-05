@@ -127,5 +127,5 @@
 <h2> Usage</h2>
 <p>Clone this repository:</p>
 <pre>
-git clone https://github.com/&lt;[your-username](https://github.com/S-Anshul)&gt;/United_airline_TEAM_INFINITY.git
+git clone https://github.com/&lt;https://github.com/S-Anshul&gt;/United_airline_TEAM_INFINITY.git
 </pre>
